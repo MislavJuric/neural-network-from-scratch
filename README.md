@@ -1,6 +1,6 @@
 # Neural Network from Scratch
 
-Neural network implementation from scratch (in Python) made by following the guide at: http://www.code-spot.co.za/2009/10/08/15-steps-to-implemented-a-neural-net/. Besides "regular" Python, I only used NumPy, matplotlib and pandas.
+Neural network implementation from scratch (in Python) I made by following the guide at: http://www.code-spot.co.za/2009/10/08/15-steps-to-implemented-a-neural-net/. Besides "regular" Python, I only used NumPy, matplotlib and pandas.
 
 The code is contained in **Neural Network from Scratch.ipynb**. **data** directory contains the data the neural network is trained on. **environment.yml** is the file you can use to re-create my local Python environment.
 
